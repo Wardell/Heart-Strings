@@ -1,0 +1,17 @@
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Beat_Detector\obj\Debug\Beat_Detector.csprojResolveAssemblyReference.cache
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Beat_Detector\bin\Debug\Beat_Detector.exe.config
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Beat_Detector\bin\Debug\Beat_Detector.exe
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Beat_Detector\bin\Debug\Beat_Detector.pdb
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Beat_Detector\bin\Debug\NAudio.dll
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Beat_Detector\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Beat_Detector\bin\Debug\NAudio.xml
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Beat_Detector\obj\Debug\Beat_Detector.exe
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Beat_Detector\obj\Debug\Beat_Detector.pdb
+G:\Game projects\Heart Strings\ViralChords\Beat_Detector\obj\Debug\Beat_Detector.pdb
+G:\Game projects\Heart Strings\ViralChords\Beat_Detector\obj\Debug\Beat_Detector.csprojResolveAssemblyReference.cache
+G:\Game projects\Heart Strings\ViralChords\Beat_Detector\bin\Debug\Beat_Detector.pdb
+G:\Game projects\Heart Strings\ViralChords\Beat_Detector\bin\Debug\NAudio.xml
+G:\Game projects\Heart Strings\ViralChords\Beat_Detector\bin\Debug\UnityEngine.dll
+G:\Game projects\Heart Strings\ViralChords\Beat_Detector\bin\Debug\Beat_Detector.exe.config
+G:\Game projects\Heart Strings\ViralChords\Beat_Detector\bin\Debug\Beat_Detector.exe
+G:\Game projects\Heart Strings\ViralChords\Beat_Detector\obj\Debug\Beat_Detector.exe

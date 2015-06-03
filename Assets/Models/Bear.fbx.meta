@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 57f51f60452b02c4b98f3e7926ee4e4e
+timeCreated: 1431395120
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: //RootNode
+    100004: Chest
+    100006: Control
+    100008: Cube
+    100010: Head
+    100012: Hip
+    100014: L__Arm_IK
+    100016: L__Elbow
+    100018: L__Foot
+    100020: L__Hand
+    100022: L__Index_Bottom
+    100024: L__Index_Top
+    100026: L__Knee
+    100028: L__Leg_IK
+    100030: L__Lower_Arm
+    100032: L__Middle_Bottom
+    100034: L__Middle_Top
+    100036: L__Pinky_Bottom
+    100038: L__Pinky_Top
+    100040: L__Ring_Bottom
+    100042: L__Ring_Top
+    100044: L__Thigh
+    100046: L__Upper_Arm
+    100048: Lower_Jaw
+    100050: R__Arm_IK
+    100052: R__Elbow
+    100054: R__Foot
+    100056: R__Hand
+    100058: R__Index_Bottom
+    100060: R__Index_Top
+    100062: R__Knee
+    100064: R__Leg_IK
+    100066: R__Lower_Arm
+    100068: R__Middle_Bottom
+    100070: R__Middle_Top
+    100072: R__Pinky_Bottom
+    100074: R__Pinky_Top
+    100076: R__Ring_Bottom
+    100078: R__Ring_Top
+    100080: R__Thigh
+    100082: R__Upper_Arm
+    100084: Stomach
+    100086: Upper_Jaw
+    400000: Armature
+    400002: //RootNode
+    400004: Chest
+    400006: Control
+    400008: Cube
+    400010: Head
+    400012: Hip
+    400014: L__Arm_IK
+    400016: L__Elbow
+    400018: L__Foot
+    400020: L__Hand
+    400022: L__Index_Bottom
+    400024: L__Index_Top
+    400026: L__Knee
+    400028: L__Leg_IK
+    400030: L__Lower_Arm
+    400032: L__Middle_Bottom
+    400034: L__Middle_Top
+    400036: L__Pinky_Bottom
+    400038: L__Pinky_Top
+    400040: L__Ring_Bottom
+    400042: L__Ring_Top
+    400044: L__Thigh
+    400046: L__Upper_Arm
+    400048: Lower_Jaw
+    400050: R__Arm_IK
+    400052: R__Elbow
+    400054: R__Foot
+    400056: R__Hand
+    400058: R__Index_Bottom
+    400060: R__Index_Top
+    400062: R__Knee
+    400064: R__Leg_IK
+    400066: R__Lower_Arm
+    400068: R__Middle_Bottom
+    400070: R__Middle_Top
+    400072: R__Pinky_Bottom
+    400074: R__Pinky_Top
+    400076: R__Ring_Bottom
+    400078: R__Ring_Top
+    400080: R__Thigh
+    400082: R__Upper_Arm
+    400084: Stomach
+    400086: Upper_Jaw
+    4300000: Cube
+    7400000: Action
+    7400002: Drastic
+    7400004: Minor
+    7400006: Moderate
+    7400008: Walk
+    7400010: Default Take
+    9500000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

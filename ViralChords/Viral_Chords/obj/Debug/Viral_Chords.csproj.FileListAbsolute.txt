@@ -1,0 +1,27 @@
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Viral_Chords\bin\Debug\Viral_Chords.exe.config
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Viral_Chords\obj\Debug\Viral_Chords.csprojResolveAssemblyReference.cache
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Viral_Chords\obj\Debug\MainWindow.baml
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Viral_Chords\obj\Debug\MainWindow.g.cs
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Viral_Chords\obj\Debug\App.g.cs
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Viral_Chords\obj\Debug\Viral_Chords_MarkupCompile.cache
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Viral_Chords\obj\Debug\Viral_Chords.g.resources
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Viral_Chords\obj\Debug\Viral_Chords.Properties.Resources.resources
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Viral_Chords\obj\Debug\Viral_Chords.csproj.GenerateResource.Cache
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Viral_Chords\bin\Debug\Viral_Chords.exe
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Viral_Chords\bin\Debug\Viral_Chords.pdb
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Viral_Chords\bin\Debug\NAudio.dll
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Viral_Chords\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Viral_Chords\bin\Debug\NAudio.xml
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Viral_Chords\obj\Debug\Viral_Chords.exe
+C:\Users\CilkaCreed\Desktop\NAudio tutorialls\ViralChords\Viral_Chords\obj\Debug\Viral_Chords.pdb
+G:\Game projects\Heart Strings\ViralChords\Viral_Chords\obj\Debug\Viral_Chords.csprojResolveAssemblyReference.cache
+G:\Game projects\Heart Strings\ViralChords\Viral_Chords\obj\Debug\MainWindow.baml
+G:\Game projects\Heart Strings\ViralChords\Viral_Chords\obj\Debug\MainWindow.g.cs
+G:\Game projects\Heart Strings\ViralChords\Viral_Chords\obj\Debug\App.g.cs
+G:\Game projects\Heart Strings\ViralChords\Viral_Chords\obj\Debug\Viral_Chords_MarkupCompile.cache
+G:\Game projects\Heart Strings\ViralChords\Viral_Chords\obj\Debug\Viral_Chords.g.resources
+G:\Game projects\Heart Strings\ViralChords\Viral_Chords\obj\Debug\Viral_Chords.Properties.Resources.resources
+G:\Game projects\Heart Strings\ViralChords\Viral_Chords\obj\Debug\Viral_Chords.csproj.GenerateResource.Cache
+G:\Game projects\Heart Strings\ViralChords\Viral_Chords\obj\Debug\Viral_Chords.exe
+G:\Game projects\Heart Strings\ViralChords\Viral_Chords\obj\Debug\Viral_Chords.pdb
+G:\Game projects\Heart Strings\ViralChords\Viral_Chords\bin\Debug\Viral_Chords.exe.config

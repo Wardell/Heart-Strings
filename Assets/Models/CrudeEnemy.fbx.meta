@@ -1,0 +1,694 @@
+fileFormatVersion: 2
+guid: 90e15d8c64f67874da05e418d66b88c4
+timeCreated: 1430350121
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Camera
+    100006: Control
+    100008: //RootNode
+    100010: Head
+    100012: L___Biscep
+    100014: L___Leg_IK
+    100016: L__Arm_IK
+    100018: L__Elbow
+    100020: L__Foot
+    100022: L__Forearm
+    100024: L__Hand
+    100026: L__Knee
+    100028: L__Thigh
+    100030: L__Wrist
+    100032: Lamp
+    100034: Neck
+    100036: R___Biscep
+    100038: R___Leg_IK
+    100040: R__Arm_IK
+    100042: R__Elbow
+    100044: R__Foot
+    100046: R__Forearm
+    100048: R__Hand
+    100050: R__Knee
+    100052: R__Thigh
+    100054: R__Wrist
+    100056: Sphere_001
+    400000: Armature
+    400002: Body
+    400004: Camera
+    400006: Control
+    400008: //RootNode
+    400010: Head
+    400012: L___Biscep
+    400014: L___Leg_IK
+    400016: L__Arm_IK
+    400018: L__Elbow
+    400020: L__Foot
+    400022: L__Forearm
+    400024: L__Hand
+    400026: L__Knee
+    400028: L__Thigh
+    400030: L__Wrist
+    400032: Lamp
+    400034: Neck
+    400036: R___Biscep
+    400038: R___Leg_IK
+    400040: R__Arm_IK
+    400042: R__Elbow
+    400044: R__Foot
+    400046: R__Forearm
+    400048: R__Hand
+    400050: R__Knee
+    400052: R__Thigh
+    400054: R__Wrist
+    400056: Sphere_001
+    4300000: Sphere_001
+    7400000: Default Take
+    7400002: Attack_1
+    7400004: Death
+    7400006: Idle
+    7400008: Jump
+    7400010: Walk_Cycle
+    7400012: Moderate_Attack
+    7400014: Drastic_Attack
+    9500000: //RootNode
+    13700000: Sphere_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack_1
+      takeName: Attack_1
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Control
+        weight: 1
+      - path: Armature/Control/Body
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm/L__Wrist
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm/L__Wrist/L__Hand
+        weight: 1
+      - path: Armature/Control/Body/L__Thigh
+        weight: 1
+      - path: Armature/Control/Body/L__Thigh/L__Foot
+        weight: 1
+      - path: Armature/Control/Body/Neck
+        weight: 1
+      - path: Armature/Control/Body/Neck/Head
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm/R__Wrist
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm/R__Wrist/R__Hand
+        weight: 1
+      - path: Armature/Control/Body/R__Thigh
+        weight: 1
+      - path: Armature/Control/Body/R__Thigh/R__Foot
+        weight: 1
+      - path: Armature/Control/L___Leg_IK
+        weight: 1
+      - path: Armature/Control/L__Arm_IK
+        weight: 1
+      - path: Armature/Control/L__Elbow
+        weight: 1
+      - path: Armature/Control/L__Knee
+        weight: 1
+      - path: Armature/Control/R___Leg_IK
+        weight: 1
+      - path: Armature/Control/R__Arm_IK
+        weight: 1
+      - path: Armature/Control/R__Elbow
+        weight: 1
+      - path: Armature/Control/R__Knee
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Death
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Control
+        weight: 1
+      - path: Armature/Control/Body
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm/L__Wrist
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm/L__Wrist/L__Hand
+        weight: 1
+      - path: Armature/Control/Body/L__Thigh
+        weight: 1
+      - path: Armature/Control/Body/L__Thigh/L__Foot
+        weight: 1
+      - path: Armature/Control/Body/Neck
+        weight: 1
+      - path: Armature/Control/Body/Neck/Head
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm/R__Wrist
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm/R__Wrist/R__Hand
+        weight: 1
+      - path: Armature/Control/Body/R__Thigh
+        weight: 1
+      - path: Armature/Control/Body/R__Thigh/R__Foot
+        weight: 1
+      - path: Armature/Control/L___Leg_IK
+        weight: 1
+      - path: Armature/Control/L__Arm_IK
+        weight: 1
+      - path: Armature/Control/L__Elbow
+        weight: 1
+      - path: Armature/Control/L__Knee
+        weight: 1
+      - path: Armature/Control/R___Leg_IK
+        weight: 1
+      - path: Armature/Control/R__Arm_IK
+        weight: 1
+      - path: Armature/Control/R__Elbow
+        weight: 1
+      - path: Armature/Control/R__Knee
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Control
+        weight: 1
+      - path: Armature/Control/Body
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm/L__Wrist
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm/L__Wrist/L__Hand
+        weight: 1
+      - path: Armature/Control/Body/L__Thigh
+        weight: 1
+      - path: Armature/Control/Body/L__Thigh/L__Foot
+        weight: 1
+      - path: Armature/Control/Body/Neck
+        weight: 1
+      - path: Armature/Control/Body/Neck/Head
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm/R__Wrist
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm/R__Wrist/R__Hand
+        weight: 1
+      - path: Armature/Control/Body/R__Thigh
+        weight: 1
+      - path: Armature/Control/Body/R__Thigh/R__Foot
+        weight: 1
+      - path: Armature/Control/L___Leg_IK
+        weight: 1
+      - path: Armature/Control/L__Arm_IK
+        weight: 1
+      - path: Armature/Control/L__Elbow
+        weight: 1
+      - path: Armature/Control/L__Knee
+        weight: 1
+      - path: Armature/Control/R___Leg_IK
+        weight: 1
+      - path: Armature/Control/R__Arm_IK
+        weight: 1
+      - path: Armature/Control/R__Elbow
+        weight: 1
+      - path: Armature/Control/R__Knee
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Jump
+      takeName: Jump
+      firstFrame: 0
+      lastFrame: 4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Control
+        weight: 1
+      - path: Armature/Control/Body
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm/L__Wrist
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm/L__Wrist/L__Hand
+        weight: 1
+      - path: Armature/Control/Body/L__Thigh
+        weight: 1
+      - path: Armature/Control/Body/L__Thigh/L__Foot
+        weight: 1
+      - path: Armature/Control/Body/Neck
+        weight: 1
+      - path: Armature/Control/Body/Neck/Head
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm/R__Wrist
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm/R__Wrist/R__Hand
+        weight: 1
+      - path: Armature/Control/Body/R__Thigh
+        weight: 1
+      - path: Armature/Control/Body/R__Thigh/R__Foot
+        weight: 1
+      - path: Armature/Control/L___Leg_IK
+        weight: 1
+      - path: Armature/Control/L__Arm_IK
+        weight: 1
+      - path: Armature/Control/L__Elbow
+        weight: 1
+      - path: Armature/Control/L__Knee
+        weight: 1
+      - path: Armature/Control/R___Leg_IK
+        weight: 1
+      - path: Armature/Control/R__Arm_IK
+        weight: 1
+      - path: Armature/Control/R__Elbow
+        weight: 1
+      - path: Armature/Control/R__Knee
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk_Cycle
+      takeName: Walk_Cycle
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Control
+        weight: 1
+      - path: Armature/Control/Body
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm/L__Wrist
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm/L__Wrist/L__Hand
+        weight: 1
+      - path: Armature/Control/Body/L__Thigh
+        weight: 1
+      - path: Armature/Control/Body/L__Thigh/L__Foot
+        weight: 1
+      - path: Armature/Control/Body/Neck
+        weight: 1
+      - path: Armature/Control/Body/Neck/Head
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm/R__Wrist
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm/R__Wrist/R__Hand
+        weight: 1
+      - path: Armature/Control/Body/R__Thigh
+        weight: 1
+      - path: Armature/Control/Body/R__Thigh/R__Foot
+        weight: 1
+      - path: Armature/Control/L___Leg_IK
+        weight: 1
+      - path: Armature/Control/L__Arm_IK
+        weight: 1
+      - path: Armature/Control/L__Elbow
+        weight: 1
+      - path: Armature/Control/L__Knee
+        weight: 1
+      - path: Armature/Control/R___Leg_IK
+        weight: 1
+      - path: Armature/Control/R__Arm_IK
+        weight: 1
+      - path: Armature/Control/R__Elbow
+        weight: 1
+      - path: Armature/Control/R__Knee
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Moderate_Attack
+      takeName: Moderate_Attack
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Control
+        weight: 1
+      - path: Armature/Control/Body
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm/L__Wrist
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm/L__Wrist/L__Hand
+        weight: 1
+      - path: Armature/Control/Body/L__Thigh
+        weight: 1
+      - path: Armature/Control/Body/L__Thigh/L__Foot
+        weight: 1
+      - path: Armature/Control/Body/Neck
+        weight: 1
+      - path: Armature/Control/Body/Neck/Head
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm/R__Wrist
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm/R__Wrist/R__Hand
+        weight: 1
+      - path: Armature/Control/Body/R__Thigh
+        weight: 1
+      - path: Armature/Control/Body/R__Thigh/R__Foot
+        weight: 1
+      - path: Armature/Control/L___Leg_IK
+        weight: 1
+      - path: Armature/Control/L__Arm_IK
+        weight: 1
+      - path: Armature/Control/L__Elbow
+        weight: 1
+      - path: Armature/Control/L__Knee
+        weight: 1
+      - path: Armature/Control/R___Leg_IK
+        weight: 1
+      - path: Armature/Control/R__Arm_IK
+        weight: 1
+      - path: Armature/Control/R__Elbow
+        weight: 1
+      - path: Armature/Control/R__Knee
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Drastic_Attack
+      takeName: Drastic_Attack
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Control
+        weight: 1
+      - path: Armature/Control/Body
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm/L__Wrist
+        weight: 1
+      - path: Armature/Control/Body/L___Biscep/L__Forearm/L__Wrist/L__Hand
+        weight: 1
+      - path: Armature/Control/Body/L__Thigh
+        weight: 1
+      - path: Armature/Control/Body/L__Thigh/L__Foot
+        weight: 1
+      - path: Armature/Control/Body/Neck
+        weight: 1
+      - path: Armature/Control/Body/Neck/Head
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm/R__Wrist
+        weight: 1
+      - path: Armature/Control/Body/R___Biscep/R__Forearm/R__Wrist/R__Hand
+        weight: 1
+      - path: Armature/Control/Body/R__Thigh
+        weight: 1
+      - path: Armature/Control/Body/R__Thigh/R__Foot
+        weight: 1
+      - path: Armature/Control/L___Leg_IK
+        weight: 1
+      - path: Armature/Control/L__Arm_IK
+        weight: 1
+      - path: Armature/Control/L__Elbow
+        weight: 1
+      - path: Armature/Control/L__Knee
+        weight: 1
+      - path: Armature/Control/R___Leg_IK
+        weight: 1
+      - path: Armature/Control/R__Arm_IK
+        weight: 1
+      - path: Armature/Control/R__Elbow
+        weight: 1
+      - path: Armature/Control/R__Knee
+        weight: 1
+      - path: Sphere_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

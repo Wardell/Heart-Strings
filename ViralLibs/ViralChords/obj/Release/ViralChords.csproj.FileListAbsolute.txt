@@ -1,0 +1,8 @@
+G:\Game projects\Heart Strings\ViralLibs\ViralChords\bin\Release\ViralChords.dll
+G:\Game projects\Heart Strings\ViralLibs\ViralChords\bin\Release\ViralChords.pdb
+G:\Game projects\Heart Strings\ViralLibs\ViralChords\obj\Release\ViralChords.csprojResolveAssemblyReference.cache
+G:\Game projects\Heart Strings\ViralLibs\ViralChords\obj\Release\ViralChords.dll
+G:\Game projects\Heart Strings\ViralLibs\ViralChords\obj\Release\ViralChords.pdb
+G:\Game projects\Heart Strings\ViralLibs\ViralChords\bin\Release\NAudio.dll
+G:\Game projects\Heart Strings\ViralLibs\ViralChords\bin\Release\NAudio.WindowsMediaFormat.dll
+G:\Game projects\Heart Strings\ViralLibs\ViralChords\bin\Release\UnityEngine.dll

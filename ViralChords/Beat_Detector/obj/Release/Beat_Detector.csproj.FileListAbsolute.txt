@@ -1,0 +1,7 @@
+G:\Game projects\Heart Strings\ViralChords\Beat_Detector\bin\Release\Beat_Detector.exe.config
+G:\Game projects\Heart Strings\ViralChords\Beat_Detector\bin\Release\Beat_Detector.exe
+G:\Game projects\Heart Strings\ViralChords\Beat_Detector\bin\Release\Beat_Detector.pdb
+G:\Game projects\Heart Strings\ViralChords\Beat_Detector\bin\Release\UnityEngine.dll
+G:\Game projects\Heart Strings\ViralChords\Beat_Detector\obj\Release\Beat_Detector.exe
+G:\Game projects\Heart Strings\ViralChords\Beat_Detector\obj\Release\Beat_Detector.pdb
+G:\Game projects\Heart Strings\ViralChords\Beat_Detector\obj\Release\Beat_Detector.csprojResolveAssemblyReference.cache
